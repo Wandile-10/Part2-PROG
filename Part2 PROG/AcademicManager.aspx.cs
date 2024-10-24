@@ -42,7 +42,7 @@ namespace Part2_PROG
                 BindClaimsGrid();
             }
         }
-
+        
         private void AddSampleClaims()
         {
             claimsTable.Rows.Add("C001", "Asanda", "PROG6212", "Programming 2A", 100, 10, 1000, "doc1.pdf", "Pending");
